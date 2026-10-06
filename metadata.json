@@ -1,0 +1,18 @@
+{
+	"KPackageStructure": "Plasma/Wallpaper",
+	"KPlugin": {
+		"Authors": [
+			{
+				"Email": "dkonpa12@gmail.com",
+				"Name": "Dawid Końpa"
+			}
+		],
+		"Category": "",
+		"Description": "",
+		"Icon": "",
+		"Id": "io.github.horsebye.chronopaper",
+		"License": "MIT",
+		"Name": "Chronopaper"
+	},
+	"Keywords": ""
+}
